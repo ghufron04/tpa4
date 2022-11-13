@@ -1,0 +1,1 @@
+INSERT INTO `orders` (`id_order`, `id_item`, `id_customer`, `total_harga`) VALUES (NULL, '1', '6', '15000'), (NULL, '5', '6', '15000'), (NULL, '6', '6', '15000');

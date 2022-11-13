@@ -1,0 +1,1 @@
+UPDATE `items` SET `harga` = '15000', `id_category` = '1' WHERE `items`.`id_item` = 6
